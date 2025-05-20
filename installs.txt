@@ -1,0 +1,12 @@
+These commands are taken from the Jupyter Notebook
+
+%pip install -q protobuf==3.20.3
+%pip install -q chromadb==0.4.22
+%pip install -q openai transformers llama_index sentence-transformers
+%pip install --q unstructured langchain langchain-community langchain-huggingface
+%pip install --q "unstructured[all-docs]" ipywidgets tqdm
+%pip install -q sentencepiece
+
+!sudo yum install -y poppler-utils
+
+!sudo yum install -y mesa-libGL
